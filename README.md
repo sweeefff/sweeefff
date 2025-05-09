@@ -3,9 +3,6 @@
 🧠 Informatics Engineering at Politeknik Negeri Batam.<br>
 🌱 I’m currently learning on PHP and Laravel.<br>
 ⚡ Fun fact: I really love listening some music even just listening music for hours and do nothin except read the lyric.<br>
-Check my playlist if you like hiphop indo underground.
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0QcT4JynYrjpuP2gPwdCxs?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ridho Kun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sweeefff) 
