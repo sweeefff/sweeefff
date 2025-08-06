@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sweeefff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sweeefff&theme=tokyonight&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sweeefff&theme=tokyonight&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweeefff&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
